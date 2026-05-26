@@ -1,7 +1,7 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://HeoJungMo1.github.io/'
 locale = 'en-us'
 title = 'My New Hugo Project'
 
-
-google_analytics = 'G-29P562QL7C'
-google_site_verification = 'a7meQwxoXd-94HkZ1pjyJVFw4Dkv2NMgcB2FLHuh2IQ'
+[params]
+  google_analytics = 'G-29P562QL7C'
+  google_site_verification = 'a7meQwxoXd-94HkZ1pjyJVFw4Dkv2NMgcB2FLHuh2IQ'
